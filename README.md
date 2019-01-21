@@ -1,2 +1,2 @@
 # Deep Learning
-Training basic Neural Network models
+This repository contains some basic neural network implementations and other resources of deep learning.
